@@ -1,0 +1,15 @@
+h1 {
+  color: white;
+  background-color: black
+}
+
+footer {
+  color: white;
+  background-color: black
+}
+
+section {
+  column-count: 4;
+  column-rule: 1px solid #ccc;
+  text-align: justify
+}
